@@ -133,7 +133,7 @@ SyntheticSense addresses a critical gap in assistive technology. While existing 
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/[your-username]/SyntheticSense.git
+git clone https://github.com/creativeacttech/SyntheticSense.git
 cd SyntheticSense
 
 # Install dependencies
