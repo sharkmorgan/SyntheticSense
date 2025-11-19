@@ -10,8 +10,7 @@
   ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
   
   **Open-Source Assistive Technology for the Deaf-Blind Community**
-  
-  [Documentation](#documentation) • [Get Started](#getting-started) • [Contribute](#contributing) • [Community](#community)
+
   
 </div>
 
